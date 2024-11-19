@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.11.1)  19 NOV 2024 18:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.11.1)  19 NOV 2024 19:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -472,7 +472,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [11]
-Overfull \hbox (13.63101pt too wide) in paragraph at lines 21--23
+Overfull \hbox (13.63101pt too wide) in paragraph at lines 22--24
 []\OT1/cmr/bx/n/12 D^^Secentralisation : \OT1/cmr/m/n/12 Di-vi-ser l'en-tre-pri
 se en pe-tites unit^^Ses au-to-nomes per-met une meilleure
  []
@@ -480,13 +480,13 @@ se en pe-tites unit^^Ses au-to-nomes per-met une meilleure
 [12
 
 ]
-Overfull \hbox (31.225pt too wide) in paragraph at lines 38--39
+Overfull \hbox (31.225pt too wide) in paragraph at lines 39--40
 []\OT1/cmr/bx/n/12 Adopter une culture de l'in-no-va-tion : \OT1/cmr/m/n/12 En-
 cou-ra-ger la prise de risques et l'exp^^Serimentation
  []
 
 
-Overfull \hbox (10.81366pt too wide) in paragraph at lines 64--64
+Overfull \hbox (10.81366pt too wide) in paragraph at lines 65--65
 []\OT1/cmr/bx/n/17.28 Optimisation des co^uts lo-gis-tiques et op^^Serationnels
  
  []
@@ -499,7 +499,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[13])
+[13]) (./avantagesInconvénients.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -508,17 +508,60 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[14] (./index.aux)
+[14]
+Overfull \hbox (25.55766pt too wide) in paragraph at lines 23--23
+[]\OT1/cmr/bx/n/17.28 Exemple dans la grande dis-tri-bu-tion (su-per-march^^Ses
+) 
+ []
+
+[15
+
+]
+Overfull \hbox (7.72748pt too wide) in paragraph at lines 70--72
+[]\OT1/cmr/m/n/12 Les pla-te-formes comme Net-flix ou Spo-tify ex-ploitent les 
+^^Seconomies d'^^Sechelle num^^Seriques : 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[16]
+Overfull \hbox (3.85104pt too wide) in paragraph at lines 94--99
+\OT1/cmr/m/n/12 haitent r^^Seduire leurs co^uts, aug-men-ter leur comp^^Setitiv
+it^^Se et conqu^^Serir de nou-veaux march^^Ses.
+ []
+
+
+Overfull \hbox (4.59966pt too wide) in paragraph at lines 94--99
+\OT1/cmr/m/n/12 Elle re-pose sur la pro-duc-tion ^^Ra grande ^^Sechelle, l'op-t
+i-mi-sa-tion des res-sources et l'am^^Selioration
+ []
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[17] (./index.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5271 strings out of 474222
- 85355 string characters out of 5748733
+ 5279 strings out of 474222
+ 85602 string characters out of 5748733
  1931975 words of memory out of 5000000
- 27453 multiletter control sequences out of 15000+600000
+ 27458 multiletter control sequences out of 15000+600000
  564899 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  61i,13n,69p,1598b,428s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -527,10 +570,10 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on index.pdf (15 pages, 123455 bytes).
+Output written on index.pdf (18 pages, 130377 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
+ 88 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
