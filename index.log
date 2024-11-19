@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.11.1)  19 NOV 2024 15:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.11.1)  19 NOV 2024 18:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -361,7 +361,9 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/scit' undefined
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logo.png>])
-(./index.toc)
+(./index.toc [1
+
+])
 \tf@toc=\write3
 \openout3 = `index.toc'.
 
@@ -380,9 +382,15 @@ l.3
 l.3 
     
 ? 
-[1
 
-] [2
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2] [3
 
 ]) (./lesTypeDeconomieDechelle.tex
 
@@ -393,12 +401,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3]
+[4]
 ! Misplaced alignment tab character &.
 l.17 ...sation, et des stratégies efficaces en R&
                                                   D et marketing.
 ? 
-[4
+[5
 
 ]
 
@@ -409,7 +417,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[5]
+[6]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -418,7 +426,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[6]
+[7]
 Overfull \hbox (18.04543pt too wide) in paragraph at lines 116--121
 []\OT1/cmr/m/n/12 Les ^^Seconomies d'^^Sechelle ex-ternes se pro-duisent lors-q
 u'une en-tre-prise b^^Sen^^Seficie de r^^Seductions
@@ -432,7 +440,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[7]) (./causeDesEconomie.tex
+[8]) (./causeDesEconomie.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -441,16 +449,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[8]
+[9]
 ! Misplaced alignment tab character &.
 l.17 recherche et développement (R&
                                     D). Lorsque la production augmente, ces ...
 
 ? 
-[9
+[10
 
-])
-Overfull \hbox (17.2587pt too wide) in paragraph at lines 60--30
+]) (./deseconomie_chelle.tex
+Overfull \hbox (17.2587pt too wide) in paragraph at lines 60--1
 []\OT1/cmr/bx/n/12 En conclu-sion \OT1/cmr/m/n/12 ^^Seconomies d'^^Sechelle d^^
 Secoulent de di-vers m^^Secanismes, tels que la r^^Separtition
  []
@@ -463,29 +471,66 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[10] (./index.aux)
+[11]
+Overfull \hbox (13.63101pt too wide) in paragraph at lines 21--23
+[]\OT1/cmr/bx/n/12 D^^Secentralisation : \OT1/cmr/m/n/12 Di-vi-ser l'en-tre-pri
+se en pe-tites unit^^Ses au-to-nomes per-met une meilleure
+ []
+
+[12
+
+]
+Overfull \hbox (31.225pt too wide) in paragraph at lines 38--39
+[]\OT1/cmr/bx/n/12 Adopter une culture de l'in-no-va-tion : \OT1/cmr/m/n/12 En-
+cou-ra-ger la prise de risques et l'exp^^Serimentation
+ []
+
+
+Overfull \hbox (10.81366pt too wide) in paragraph at lines 64--64
+[]\OT1/cmr/bx/n/17.28 Optimisation des co^uts lo-gis-tiques et op^^Serationnels
+ 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[13])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[14] (./index.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5265 strings out of 474222
- 85200 string characters out of 5748733
+ 5271 strings out of 474222
+ 85355 string characters out of 5748733
  1931975 words of memory out of 5000000
- 27450 multiletter control sequences out of 15000+600000
+ 27453 multiletter control sequences out of 15000+600000
  564899 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,12n,69p,1598b,428s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 61i,13n,69p,1598b,428s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on index.pdf (11 pages, 115993 bytes).
+Output written on index.pdf (15 pages, 123455 bytes).
 PDF statistics:
- 66 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 79 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
